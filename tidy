@@ -1,0 +1,5 @@
+clean: yes
+output-xml: yes
+input-encoding: utf8
+output-encoding: utf8
+quiet: yes

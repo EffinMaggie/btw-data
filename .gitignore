@@ -1,0 +1,4 @@
+*.swp
+data
+wk*.sql
+data*.sql
